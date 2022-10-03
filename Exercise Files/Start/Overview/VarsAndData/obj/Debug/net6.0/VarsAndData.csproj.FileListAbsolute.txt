@@ -1,0 +1,5 @@
+/home/theplague1738/Downloads/Compressed/Ex_Files_Learning_C_Sharp/Exercise Files/Start/Overview/VarsAndData/obj/Debug/net6.0/VarsAndData.csproj.AssemblyReference.cache
+/home/theplague1738/Downloads/Compressed/Ex_Files_Learning_C_Sharp/Exercise Files/Start/Overview/VarsAndData/obj/Debug/net6.0/VarsAndData.GeneratedMSBuildEditorConfig.editorconfig
+/home/theplague1738/Downloads/Compressed/Ex_Files_Learning_C_Sharp/Exercise Files/Start/Overview/VarsAndData/obj/Debug/net6.0/VarsAndData.AssemblyInfoInputs.cache
+/home/theplague1738/Downloads/Compressed/Ex_Files_Learning_C_Sharp/Exercise Files/Start/Overview/VarsAndData/obj/Debug/net6.0/VarsAndData.AssemblyInfo.cs
+/home/theplague1738/Downloads/Compressed/Ex_Files_Learning_C_Sharp/Exercise Files/Start/Overview/VarsAndData/obj/Debug/net6.0/VarsAndData.csproj.CoreCompileInputs.cache

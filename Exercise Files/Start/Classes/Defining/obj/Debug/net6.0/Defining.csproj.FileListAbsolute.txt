@@ -1,0 +1,15 @@
+/home/theplague1738/Downloads/Compressed/Ex_Files_Learning_C_Sharp/Exercise Files/Start/Classes/Defining/bin/Debug/net6.0/Defining
+/home/theplague1738/Downloads/Compressed/Ex_Files_Learning_C_Sharp/Exercise Files/Start/Classes/Defining/bin/Debug/net6.0/Defining.deps.json
+/home/theplague1738/Downloads/Compressed/Ex_Files_Learning_C_Sharp/Exercise Files/Start/Classes/Defining/bin/Debug/net6.0/Defining.runtimeconfig.json
+/home/theplague1738/Downloads/Compressed/Ex_Files_Learning_C_Sharp/Exercise Files/Start/Classes/Defining/bin/Debug/net6.0/Defining.dll
+/home/theplague1738/Downloads/Compressed/Ex_Files_Learning_C_Sharp/Exercise Files/Start/Classes/Defining/bin/Debug/net6.0/Defining.pdb
+/home/theplague1738/Downloads/Compressed/Ex_Files_Learning_C_Sharp/Exercise Files/Start/Classes/Defining/obj/Debug/net6.0/Defining.csproj.AssemblyReference.cache
+/home/theplague1738/Downloads/Compressed/Ex_Files_Learning_C_Sharp/Exercise Files/Start/Classes/Defining/obj/Debug/net6.0/Defining.GeneratedMSBuildEditorConfig.editorconfig
+/home/theplague1738/Downloads/Compressed/Ex_Files_Learning_C_Sharp/Exercise Files/Start/Classes/Defining/obj/Debug/net6.0/Defining.AssemblyInfoInputs.cache
+/home/theplague1738/Downloads/Compressed/Ex_Files_Learning_C_Sharp/Exercise Files/Start/Classes/Defining/obj/Debug/net6.0/Defining.AssemblyInfo.cs
+/home/theplague1738/Downloads/Compressed/Ex_Files_Learning_C_Sharp/Exercise Files/Start/Classes/Defining/obj/Debug/net6.0/Defining.csproj.CoreCompileInputs.cache
+/home/theplague1738/Downloads/Compressed/Ex_Files_Learning_C_Sharp/Exercise Files/Start/Classes/Defining/obj/Debug/net6.0/Defining.dll
+/home/theplague1738/Downloads/Compressed/Ex_Files_Learning_C_Sharp/Exercise Files/Start/Classes/Defining/obj/Debug/net6.0/refint/Defining.dll
+/home/theplague1738/Downloads/Compressed/Ex_Files_Learning_C_Sharp/Exercise Files/Start/Classes/Defining/obj/Debug/net6.0/Defining.pdb
+/home/theplague1738/Downloads/Compressed/Ex_Files_Learning_C_Sharp/Exercise Files/Start/Classes/Defining/obj/Debug/net6.0/Defining.genruntimeconfig.cache
+/home/theplague1738/Downloads/Compressed/Ex_Files_Learning_C_Sharp/Exercise Files/Start/Classes/Defining/obj/Debug/net6.0/ref/Defining.dll

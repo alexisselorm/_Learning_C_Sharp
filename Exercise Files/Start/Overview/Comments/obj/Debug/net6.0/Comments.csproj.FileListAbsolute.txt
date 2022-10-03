@@ -1,0 +1,16 @@
+/home/theplague1738/Downloads/Compressed/Ex_Files_Learning_C_Sharp/Exercise Files/Start/Overview/Comments/bin/Debug/net6.0/Comments
+/home/theplague1738/Downloads/Compressed/Ex_Files_Learning_C_Sharp/Exercise Files/Start/Overview/Comments/bin/Debug/net6.0/Comments.deps.json
+/home/theplague1738/Downloads/Compressed/Ex_Files_Learning_C_Sharp/Exercise Files/Start/Overview/Comments/bin/Debug/net6.0/Comments.runtimeconfig.json
+/home/theplague1738/Downloads/Compressed/Ex_Files_Learning_C_Sharp/Exercise Files/Start/Overview/Comments/bin/Debug/net6.0/Comments.dll
+/home/theplague1738/Downloads/Compressed/Ex_Files_Learning_C_Sharp/Exercise Files/Start/Overview/Comments/bin/Debug/net6.0/Comments.pdb
+/home/theplague1738/Downloads/Compressed/Ex_Files_Learning_C_Sharp/Exercise Files/Start/Overview/Comments/bin/Debug/net6.0/Comments.xml
+/home/theplague1738/Downloads/Compressed/Ex_Files_Learning_C_Sharp/Exercise Files/Start/Overview/Comments/obj/Debug/net6.0/Comments.csproj.AssemblyReference.cache
+/home/theplague1738/Downloads/Compressed/Ex_Files_Learning_C_Sharp/Exercise Files/Start/Overview/Comments/obj/Debug/net6.0/Comments.GeneratedMSBuildEditorConfig.editorconfig
+/home/theplague1738/Downloads/Compressed/Ex_Files_Learning_C_Sharp/Exercise Files/Start/Overview/Comments/obj/Debug/net6.0/Comments.AssemblyInfoInputs.cache
+/home/theplague1738/Downloads/Compressed/Ex_Files_Learning_C_Sharp/Exercise Files/Start/Overview/Comments/obj/Debug/net6.0/Comments.AssemblyInfo.cs
+/home/theplague1738/Downloads/Compressed/Ex_Files_Learning_C_Sharp/Exercise Files/Start/Overview/Comments/obj/Debug/net6.0/Comments.csproj.CoreCompileInputs.cache
+/home/theplague1738/Downloads/Compressed/Ex_Files_Learning_C_Sharp/Exercise Files/Start/Overview/Comments/obj/Debug/net6.0/Comments.dll
+/home/theplague1738/Downloads/Compressed/Ex_Files_Learning_C_Sharp/Exercise Files/Start/Overview/Comments/obj/Debug/net6.0/refint/Comments.dll
+/home/theplague1738/Downloads/Compressed/Ex_Files_Learning_C_Sharp/Exercise Files/Start/Overview/Comments/obj/Debug/net6.0/Comments.pdb
+/home/theplague1738/Downloads/Compressed/Ex_Files_Learning_C_Sharp/Exercise Files/Start/Overview/Comments/obj/Debug/net6.0/Comments.genruntimeconfig.cache
+/home/theplague1738/Downloads/Compressed/Ex_Files_Learning_C_Sharp/Exercise Files/Start/Overview/Comments/obj/Debug/net6.0/ref/Comments.dll

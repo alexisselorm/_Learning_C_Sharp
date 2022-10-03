@@ -1,0 +1,15 @@
+/home/theplague1738/Downloads/Compressed/Ex_Files_Learning_C_Sharp/Exercise Files/Start/Program Flow/WhileLoops/bin/Debug/net6.0/WhileLoops
+/home/theplague1738/Downloads/Compressed/Ex_Files_Learning_C_Sharp/Exercise Files/Start/Program Flow/WhileLoops/bin/Debug/net6.0/WhileLoops.deps.json
+/home/theplague1738/Downloads/Compressed/Ex_Files_Learning_C_Sharp/Exercise Files/Start/Program Flow/WhileLoops/bin/Debug/net6.0/WhileLoops.runtimeconfig.json
+/home/theplague1738/Downloads/Compressed/Ex_Files_Learning_C_Sharp/Exercise Files/Start/Program Flow/WhileLoops/bin/Debug/net6.0/WhileLoops.dll
+/home/theplague1738/Downloads/Compressed/Ex_Files_Learning_C_Sharp/Exercise Files/Start/Program Flow/WhileLoops/bin/Debug/net6.0/WhileLoops.pdb
+/home/theplague1738/Downloads/Compressed/Ex_Files_Learning_C_Sharp/Exercise Files/Start/Program Flow/WhileLoops/obj/Debug/net6.0/WhileLoops.csproj.AssemblyReference.cache
+/home/theplague1738/Downloads/Compressed/Ex_Files_Learning_C_Sharp/Exercise Files/Start/Program Flow/WhileLoops/obj/Debug/net6.0/WhileLoops.GeneratedMSBuildEditorConfig.editorconfig
+/home/theplague1738/Downloads/Compressed/Ex_Files_Learning_C_Sharp/Exercise Files/Start/Program Flow/WhileLoops/obj/Debug/net6.0/WhileLoops.AssemblyInfoInputs.cache
+/home/theplague1738/Downloads/Compressed/Ex_Files_Learning_C_Sharp/Exercise Files/Start/Program Flow/WhileLoops/obj/Debug/net6.0/WhileLoops.AssemblyInfo.cs
+/home/theplague1738/Downloads/Compressed/Ex_Files_Learning_C_Sharp/Exercise Files/Start/Program Flow/WhileLoops/obj/Debug/net6.0/WhileLoops.csproj.CoreCompileInputs.cache
+/home/theplague1738/Downloads/Compressed/Ex_Files_Learning_C_Sharp/Exercise Files/Start/Program Flow/WhileLoops/obj/Debug/net6.0/WhileLoops.dll
+/home/theplague1738/Downloads/Compressed/Ex_Files_Learning_C_Sharp/Exercise Files/Start/Program Flow/WhileLoops/obj/Debug/net6.0/refint/WhileLoops.dll
+/home/theplague1738/Downloads/Compressed/Ex_Files_Learning_C_Sharp/Exercise Files/Start/Program Flow/WhileLoops/obj/Debug/net6.0/WhileLoops.pdb
+/home/theplague1738/Downloads/Compressed/Ex_Files_Learning_C_Sharp/Exercise Files/Start/Program Flow/WhileLoops/obj/Debug/net6.0/WhileLoops.genruntimeconfig.cache
+/home/theplague1738/Downloads/Compressed/Ex_Files_Learning_C_Sharp/Exercise Files/Start/Program Flow/WhileLoops/obj/Debug/net6.0/ref/WhileLoops.dll

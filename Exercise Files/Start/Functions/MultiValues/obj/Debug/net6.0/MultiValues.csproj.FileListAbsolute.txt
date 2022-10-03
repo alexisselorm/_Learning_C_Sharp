@@ -1,0 +1,15 @@
+/home/theplague1738/Downloads/Compressed/Ex_Files_Learning_C_Sharp/Exercise Files/Start/Functions/MultiValues/bin/Debug/net6.0/MultiValues
+/home/theplague1738/Downloads/Compressed/Ex_Files_Learning_C_Sharp/Exercise Files/Start/Functions/MultiValues/bin/Debug/net6.0/MultiValues.deps.json
+/home/theplague1738/Downloads/Compressed/Ex_Files_Learning_C_Sharp/Exercise Files/Start/Functions/MultiValues/bin/Debug/net6.0/MultiValues.runtimeconfig.json
+/home/theplague1738/Downloads/Compressed/Ex_Files_Learning_C_Sharp/Exercise Files/Start/Functions/MultiValues/bin/Debug/net6.0/MultiValues.dll
+/home/theplague1738/Downloads/Compressed/Ex_Files_Learning_C_Sharp/Exercise Files/Start/Functions/MultiValues/bin/Debug/net6.0/MultiValues.pdb
+/home/theplague1738/Downloads/Compressed/Ex_Files_Learning_C_Sharp/Exercise Files/Start/Functions/MultiValues/obj/Debug/net6.0/MultiValues.csproj.AssemblyReference.cache
+/home/theplague1738/Downloads/Compressed/Ex_Files_Learning_C_Sharp/Exercise Files/Start/Functions/MultiValues/obj/Debug/net6.0/MultiValues.GeneratedMSBuildEditorConfig.editorconfig
+/home/theplague1738/Downloads/Compressed/Ex_Files_Learning_C_Sharp/Exercise Files/Start/Functions/MultiValues/obj/Debug/net6.0/MultiValues.AssemblyInfoInputs.cache
+/home/theplague1738/Downloads/Compressed/Ex_Files_Learning_C_Sharp/Exercise Files/Start/Functions/MultiValues/obj/Debug/net6.0/MultiValues.AssemblyInfo.cs
+/home/theplague1738/Downloads/Compressed/Ex_Files_Learning_C_Sharp/Exercise Files/Start/Functions/MultiValues/obj/Debug/net6.0/MultiValues.csproj.CoreCompileInputs.cache
+/home/theplague1738/Downloads/Compressed/Ex_Files_Learning_C_Sharp/Exercise Files/Start/Functions/MultiValues/obj/Debug/net6.0/MultiValues.dll
+/home/theplague1738/Downloads/Compressed/Ex_Files_Learning_C_Sharp/Exercise Files/Start/Functions/MultiValues/obj/Debug/net6.0/refint/MultiValues.dll
+/home/theplague1738/Downloads/Compressed/Ex_Files_Learning_C_Sharp/Exercise Files/Start/Functions/MultiValues/obj/Debug/net6.0/MultiValues.pdb
+/home/theplague1738/Downloads/Compressed/Ex_Files_Learning_C_Sharp/Exercise Files/Start/Functions/MultiValues/obj/Debug/net6.0/MultiValues.genruntimeconfig.cache
+/home/theplague1738/Downloads/Compressed/Ex_Files_Learning_C_Sharp/Exercise Files/Start/Functions/MultiValues/obj/Debug/net6.0/ref/MultiValues.dll

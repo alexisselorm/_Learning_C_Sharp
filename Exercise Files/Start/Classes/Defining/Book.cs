@@ -1,0 +1,22 @@
+namespace Defining
+{
+    public class Book : Publication
+    {
+        private string _author;
+        public Book(string name, string author, int pagecount, decimal price) : base(name, pagecount, price)
+        {
+            _author = author;
+        }
+        public string Author
+        {
+            get => _author;
+            set => _author = value;
+        }
+        // TODO: use the override keyowrd to override a base class method
+        public override string GetDescription()
+        {
+            return $"{Name} by {Author},{Pagecount} pages";
+            // return base.GetDescription();
+        }
+    }
+}

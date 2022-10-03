@@ -1,0 +1,15 @@
+/home/theplague1738/Downloads/Compressed/Ex_Files_Learning_C_Sharp/Exercise Files/Finished/Overview/HelloWorld/bin/Debug/net6.0/HelloWorld
+/home/theplague1738/Downloads/Compressed/Ex_Files_Learning_C_Sharp/Exercise Files/Finished/Overview/HelloWorld/bin/Debug/net6.0/HelloWorld.deps.json
+/home/theplague1738/Downloads/Compressed/Ex_Files_Learning_C_Sharp/Exercise Files/Finished/Overview/HelloWorld/bin/Debug/net6.0/HelloWorld.runtimeconfig.json
+/home/theplague1738/Downloads/Compressed/Ex_Files_Learning_C_Sharp/Exercise Files/Finished/Overview/HelloWorld/bin/Debug/net6.0/HelloWorld.dll
+/home/theplague1738/Downloads/Compressed/Ex_Files_Learning_C_Sharp/Exercise Files/Finished/Overview/HelloWorld/bin/Debug/net6.0/HelloWorld.pdb
+/home/theplague1738/Downloads/Compressed/Ex_Files_Learning_C_Sharp/Exercise Files/Finished/Overview/HelloWorld/obj/Debug/net6.0/HelloWorld.csproj.AssemblyReference.cache
+/home/theplague1738/Downloads/Compressed/Ex_Files_Learning_C_Sharp/Exercise Files/Finished/Overview/HelloWorld/obj/Debug/net6.0/HelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+/home/theplague1738/Downloads/Compressed/Ex_Files_Learning_C_Sharp/Exercise Files/Finished/Overview/HelloWorld/obj/Debug/net6.0/HelloWorld.AssemblyInfoInputs.cache
+/home/theplague1738/Downloads/Compressed/Ex_Files_Learning_C_Sharp/Exercise Files/Finished/Overview/HelloWorld/obj/Debug/net6.0/HelloWorld.AssemblyInfo.cs
+/home/theplague1738/Downloads/Compressed/Ex_Files_Learning_C_Sharp/Exercise Files/Finished/Overview/HelloWorld/obj/Debug/net6.0/HelloWorld.csproj.CoreCompileInputs.cache
+/home/theplague1738/Downloads/Compressed/Ex_Files_Learning_C_Sharp/Exercise Files/Finished/Overview/HelloWorld/obj/Debug/net6.0/HelloWorld.dll
+/home/theplague1738/Downloads/Compressed/Ex_Files_Learning_C_Sharp/Exercise Files/Finished/Overview/HelloWorld/obj/Debug/net6.0/refint/HelloWorld.dll
+/home/theplague1738/Downloads/Compressed/Ex_Files_Learning_C_Sharp/Exercise Files/Finished/Overview/HelloWorld/obj/Debug/net6.0/HelloWorld.pdb
+/home/theplague1738/Downloads/Compressed/Ex_Files_Learning_C_Sharp/Exercise Files/Finished/Overview/HelloWorld/obj/Debug/net6.0/HelloWorld.genruntimeconfig.cache
+/home/theplague1738/Downloads/Compressed/Ex_Files_Learning_C_Sharp/Exercise Files/Finished/Overview/HelloWorld/obj/Debug/net6.0/ref/HelloWorld.dll

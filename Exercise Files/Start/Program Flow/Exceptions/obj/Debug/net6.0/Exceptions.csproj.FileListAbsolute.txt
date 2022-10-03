@@ -1,0 +1,15 @@
+/home/theplague1738/Downloads/Compressed/Ex_Files_Learning_C_Sharp/Exercise Files/Start/Program Flow/Exceptions/bin/Debug/net6.0/Exceptions
+/home/theplague1738/Downloads/Compressed/Ex_Files_Learning_C_Sharp/Exercise Files/Start/Program Flow/Exceptions/bin/Debug/net6.0/Exceptions.deps.json
+/home/theplague1738/Downloads/Compressed/Ex_Files_Learning_C_Sharp/Exercise Files/Start/Program Flow/Exceptions/bin/Debug/net6.0/Exceptions.runtimeconfig.json
+/home/theplague1738/Downloads/Compressed/Ex_Files_Learning_C_Sharp/Exercise Files/Start/Program Flow/Exceptions/bin/Debug/net6.0/Exceptions.dll
+/home/theplague1738/Downloads/Compressed/Ex_Files_Learning_C_Sharp/Exercise Files/Start/Program Flow/Exceptions/bin/Debug/net6.0/Exceptions.pdb
+/home/theplague1738/Downloads/Compressed/Ex_Files_Learning_C_Sharp/Exercise Files/Start/Program Flow/Exceptions/obj/Debug/net6.0/Exceptions.csproj.AssemblyReference.cache
+/home/theplague1738/Downloads/Compressed/Ex_Files_Learning_C_Sharp/Exercise Files/Start/Program Flow/Exceptions/obj/Debug/net6.0/Exceptions.GeneratedMSBuildEditorConfig.editorconfig
+/home/theplague1738/Downloads/Compressed/Ex_Files_Learning_C_Sharp/Exercise Files/Start/Program Flow/Exceptions/obj/Debug/net6.0/Exceptions.AssemblyInfoInputs.cache
+/home/theplague1738/Downloads/Compressed/Ex_Files_Learning_C_Sharp/Exercise Files/Start/Program Flow/Exceptions/obj/Debug/net6.0/Exceptions.AssemblyInfo.cs
+/home/theplague1738/Downloads/Compressed/Ex_Files_Learning_C_Sharp/Exercise Files/Start/Program Flow/Exceptions/obj/Debug/net6.0/Exceptions.csproj.CoreCompileInputs.cache
+/home/theplague1738/Downloads/Compressed/Ex_Files_Learning_C_Sharp/Exercise Files/Start/Program Flow/Exceptions/obj/Debug/net6.0/Exceptions.dll
+/home/theplague1738/Downloads/Compressed/Ex_Files_Learning_C_Sharp/Exercise Files/Start/Program Flow/Exceptions/obj/Debug/net6.0/refint/Exceptions.dll
+/home/theplague1738/Downloads/Compressed/Ex_Files_Learning_C_Sharp/Exercise Files/Start/Program Flow/Exceptions/obj/Debug/net6.0/Exceptions.pdb
+/home/theplague1738/Downloads/Compressed/Ex_Files_Learning_C_Sharp/Exercise Files/Start/Program Flow/Exceptions/obj/Debug/net6.0/Exceptions.genruntimeconfig.cache
+/home/theplague1738/Downloads/Compressed/Ex_Files_Learning_C_Sharp/Exercise Files/Start/Program Flow/Exceptions/obj/Debug/net6.0/ref/Exceptions.dll
