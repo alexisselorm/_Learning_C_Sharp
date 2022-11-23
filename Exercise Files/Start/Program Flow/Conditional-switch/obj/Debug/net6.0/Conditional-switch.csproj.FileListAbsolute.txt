@@ -1,0 +1,15 @@
+/home/theplague1738/Downloads/Compressed/Ex_Files_Learning_C_Sharp/Exercise Files/Start/Program Flow/Conditional-switch/bin/Debug/net6.0/Conditional-switch
+/home/theplague1738/Downloads/Compressed/Ex_Files_Learning_C_Sharp/Exercise Files/Start/Program Flow/Conditional-switch/bin/Debug/net6.0/Conditional-switch.deps.json
+/home/theplague1738/Downloads/Compressed/Ex_Files_Learning_C_Sharp/Exercise Files/Start/Program Flow/Conditional-switch/bin/Debug/net6.0/Conditional-switch.runtimeconfig.json
+/home/theplague1738/Downloads/Compressed/Ex_Files_Learning_C_Sharp/Exercise Files/Start/Program Flow/Conditional-switch/bin/Debug/net6.0/Conditional-switch.dll
+/home/theplague1738/Downloads/Compressed/Ex_Files_Learning_C_Sharp/Exercise Files/Start/Program Flow/Conditional-switch/bin/Debug/net6.0/Conditional-switch.pdb
+/home/theplague1738/Downloads/Compressed/Ex_Files_Learning_C_Sharp/Exercise Files/Start/Program Flow/Conditional-switch/obj/Debug/net6.0/Conditional-switch.csproj.AssemblyReference.cache
+/home/theplague1738/Downloads/Compressed/Ex_Files_Learning_C_Sharp/Exercise Files/Start/Program Flow/Conditional-switch/obj/Debug/net6.0/Conditional-switch.GeneratedMSBuildEditorConfig.editorconfig
+/home/theplague1738/Downloads/Compressed/Ex_Files_Learning_C_Sharp/Exercise Files/Start/Program Flow/Conditional-switch/obj/Debug/net6.0/Conditional-switch.AssemblyInfoInputs.cache
+/home/theplague1738/Downloads/Compressed/Ex_Files_Learning_C_Sharp/Exercise Files/Start/Program Flow/Conditional-switch/obj/Debug/net6.0/Conditional-switch.AssemblyInfo.cs
+/home/theplague1738/Downloads/Compressed/Ex_Files_Learning_C_Sharp/Exercise Files/Start/Program Flow/Conditional-switch/obj/Debug/net6.0/Conditional-switch.csproj.CoreCompileInputs.cache
+/home/theplague1738/Downloads/Compressed/Ex_Files_Learning_C_Sharp/Exercise Files/Start/Program Flow/Conditional-switch/obj/Debug/net6.0/Conditional-switch.dll
+/home/theplague1738/Downloads/Compressed/Ex_Files_Learning_C_Sharp/Exercise Files/Start/Program Flow/Conditional-switch/obj/Debug/net6.0/refint/Conditional-switch.dll
+/home/theplague1738/Downloads/Compressed/Ex_Files_Learning_C_Sharp/Exercise Files/Start/Program Flow/Conditional-switch/obj/Debug/net6.0/Conditional-switch.pdb
+/home/theplague1738/Downloads/Compressed/Ex_Files_Learning_C_Sharp/Exercise Files/Start/Program Flow/Conditional-switch/obj/Debug/net6.0/Conditional-switch.genruntimeconfig.cache
+/home/theplague1738/Downloads/Compressed/Ex_Files_Learning_C_Sharp/Exercise Files/Start/Program Flow/Conditional-switch/obj/Debug/net6.0/ref/Conditional-switch.dll

@@ -1,0 +1,15 @@
+/home/theplague1738/Downloads/Compressed/Ex_Files_Learning_C_Sharp/Exercise Files/Start/Functions/ProgChallenge/bin/Debug/net6.0/ProgChallenge
+/home/theplague1738/Downloads/Compressed/Ex_Files_Learning_C_Sharp/Exercise Files/Start/Functions/ProgChallenge/bin/Debug/net6.0/ProgChallenge.deps.json
+/home/theplague1738/Downloads/Compressed/Ex_Files_Learning_C_Sharp/Exercise Files/Start/Functions/ProgChallenge/bin/Debug/net6.0/ProgChallenge.runtimeconfig.json
+/home/theplague1738/Downloads/Compressed/Ex_Files_Learning_C_Sharp/Exercise Files/Start/Functions/ProgChallenge/bin/Debug/net6.0/ProgChallenge.dll
+/home/theplague1738/Downloads/Compressed/Ex_Files_Learning_C_Sharp/Exercise Files/Start/Functions/ProgChallenge/bin/Debug/net6.0/ProgChallenge.pdb
+/home/theplague1738/Downloads/Compressed/Ex_Files_Learning_C_Sharp/Exercise Files/Start/Functions/ProgChallenge/obj/Debug/net6.0/ProgChallenge.csproj.AssemblyReference.cache
+/home/theplague1738/Downloads/Compressed/Ex_Files_Learning_C_Sharp/Exercise Files/Start/Functions/ProgChallenge/obj/Debug/net6.0/ProgChallenge.GeneratedMSBuildEditorConfig.editorconfig
+/home/theplague1738/Downloads/Compressed/Ex_Files_Learning_C_Sharp/Exercise Files/Start/Functions/ProgChallenge/obj/Debug/net6.0/ProgChallenge.AssemblyInfoInputs.cache
+/home/theplague1738/Downloads/Compressed/Ex_Files_Learning_C_Sharp/Exercise Files/Start/Functions/ProgChallenge/obj/Debug/net6.0/ProgChallenge.AssemblyInfo.cs
+/home/theplague1738/Downloads/Compressed/Ex_Files_Learning_C_Sharp/Exercise Files/Start/Functions/ProgChallenge/obj/Debug/net6.0/ProgChallenge.csproj.CoreCompileInputs.cache
+/home/theplague1738/Downloads/Compressed/Ex_Files_Learning_C_Sharp/Exercise Files/Start/Functions/ProgChallenge/obj/Debug/net6.0/ProgChallenge.dll
+/home/theplague1738/Downloads/Compressed/Ex_Files_Learning_C_Sharp/Exercise Files/Start/Functions/ProgChallenge/obj/Debug/net6.0/refint/ProgChallenge.dll
+/home/theplague1738/Downloads/Compressed/Ex_Files_Learning_C_Sharp/Exercise Files/Start/Functions/ProgChallenge/obj/Debug/net6.0/ProgChallenge.pdb
+/home/theplague1738/Downloads/Compressed/Ex_Files_Learning_C_Sharp/Exercise Files/Start/Functions/ProgChallenge/obj/Debug/net6.0/ProgChallenge.genruntimeconfig.cache
+/home/theplague1738/Downloads/Compressed/Ex_Files_Learning_C_Sharp/Exercise Files/Start/Functions/ProgChallenge/obj/Debug/net6.0/ref/ProgChallenge.dll

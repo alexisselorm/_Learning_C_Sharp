@@ -1,0 +1,15 @@
+/home/theplague1738/Downloads/Compressed/Ex_Files_Learning_C_Sharp/Exercise Files/Start/Program Flow/BreakContinue/bin/Debug/net6.0/BreakContinue
+/home/theplague1738/Downloads/Compressed/Ex_Files_Learning_C_Sharp/Exercise Files/Start/Program Flow/BreakContinue/bin/Debug/net6.0/BreakContinue.deps.json
+/home/theplague1738/Downloads/Compressed/Ex_Files_Learning_C_Sharp/Exercise Files/Start/Program Flow/BreakContinue/bin/Debug/net6.0/BreakContinue.runtimeconfig.json
+/home/theplague1738/Downloads/Compressed/Ex_Files_Learning_C_Sharp/Exercise Files/Start/Program Flow/BreakContinue/bin/Debug/net6.0/BreakContinue.dll
+/home/theplague1738/Downloads/Compressed/Ex_Files_Learning_C_Sharp/Exercise Files/Start/Program Flow/BreakContinue/bin/Debug/net6.0/BreakContinue.pdb
+/home/theplague1738/Downloads/Compressed/Ex_Files_Learning_C_Sharp/Exercise Files/Start/Program Flow/BreakContinue/obj/Debug/net6.0/BreakContinue.csproj.AssemblyReference.cache
+/home/theplague1738/Downloads/Compressed/Ex_Files_Learning_C_Sharp/Exercise Files/Start/Program Flow/BreakContinue/obj/Debug/net6.0/BreakContinue.GeneratedMSBuildEditorConfig.editorconfig
+/home/theplague1738/Downloads/Compressed/Ex_Files_Learning_C_Sharp/Exercise Files/Start/Program Flow/BreakContinue/obj/Debug/net6.0/BreakContinue.AssemblyInfoInputs.cache
+/home/theplague1738/Downloads/Compressed/Ex_Files_Learning_C_Sharp/Exercise Files/Start/Program Flow/BreakContinue/obj/Debug/net6.0/BreakContinue.AssemblyInfo.cs
+/home/theplague1738/Downloads/Compressed/Ex_Files_Learning_C_Sharp/Exercise Files/Start/Program Flow/BreakContinue/obj/Debug/net6.0/BreakContinue.csproj.CoreCompileInputs.cache
+/home/theplague1738/Downloads/Compressed/Ex_Files_Learning_C_Sharp/Exercise Files/Start/Program Flow/BreakContinue/obj/Debug/net6.0/BreakContinue.dll
+/home/theplague1738/Downloads/Compressed/Ex_Files_Learning_C_Sharp/Exercise Files/Start/Program Flow/BreakContinue/obj/Debug/net6.0/refint/BreakContinue.dll
+/home/theplague1738/Downloads/Compressed/Ex_Files_Learning_C_Sharp/Exercise Files/Start/Program Flow/BreakContinue/obj/Debug/net6.0/BreakContinue.pdb
+/home/theplague1738/Downloads/Compressed/Ex_Files_Learning_C_Sharp/Exercise Files/Start/Program Flow/BreakContinue/obj/Debug/net6.0/BreakContinue.genruntimeconfig.cache
+/home/theplague1738/Downloads/Compressed/Ex_Files_Learning_C_Sharp/Exercise Files/Start/Program Flow/BreakContinue/obj/Debug/net6.0/ref/BreakContinue.dll

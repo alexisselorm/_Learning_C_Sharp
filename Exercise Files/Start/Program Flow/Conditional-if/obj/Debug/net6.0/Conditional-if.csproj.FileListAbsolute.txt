@@ -1,0 +1,15 @@
+/home/theplague1738/Downloads/Compressed/Ex_Files_Learning_C_Sharp/Exercise Files/Start/Program Flow/Conditional-if/bin/Debug/net6.0/Conditional-if
+/home/theplague1738/Downloads/Compressed/Ex_Files_Learning_C_Sharp/Exercise Files/Start/Program Flow/Conditional-if/bin/Debug/net6.0/Conditional-if.deps.json
+/home/theplague1738/Downloads/Compressed/Ex_Files_Learning_C_Sharp/Exercise Files/Start/Program Flow/Conditional-if/bin/Debug/net6.0/Conditional-if.runtimeconfig.json
+/home/theplague1738/Downloads/Compressed/Ex_Files_Learning_C_Sharp/Exercise Files/Start/Program Flow/Conditional-if/bin/Debug/net6.0/Conditional-if.dll
+/home/theplague1738/Downloads/Compressed/Ex_Files_Learning_C_Sharp/Exercise Files/Start/Program Flow/Conditional-if/bin/Debug/net6.0/Conditional-if.pdb
+/home/theplague1738/Downloads/Compressed/Ex_Files_Learning_C_Sharp/Exercise Files/Start/Program Flow/Conditional-if/obj/Debug/net6.0/Conditional-if.csproj.AssemblyReference.cache
+/home/theplague1738/Downloads/Compressed/Ex_Files_Learning_C_Sharp/Exercise Files/Start/Program Flow/Conditional-if/obj/Debug/net6.0/Conditional-if.GeneratedMSBuildEditorConfig.editorconfig
+/home/theplague1738/Downloads/Compressed/Ex_Files_Learning_C_Sharp/Exercise Files/Start/Program Flow/Conditional-if/obj/Debug/net6.0/Conditional-if.AssemblyInfoInputs.cache
+/home/theplague1738/Downloads/Compressed/Ex_Files_Learning_C_Sharp/Exercise Files/Start/Program Flow/Conditional-if/obj/Debug/net6.0/Conditional-if.AssemblyInfo.cs
+/home/theplague1738/Downloads/Compressed/Ex_Files_Learning_C_Sharp/Exercise Files/Start/Program Flow/Conditional-if/obj/Debug/net6.0/Conditional-if.csproj.CoreCompileInputs.cache
+/home/theplague1738/Downloads/Compressed/Ex_Files_Learning_C_Sharp/Exercise Files/Start/Program Flow/Conditional-if/obj/Debug/net6.0/Conditional-if.dll
+/home/theplague1738/Downloads/Compressed/Ex_Files_Learning_C_Sharp/Exercise Files/Start/Program Flow/Conditional-if/obj/Debug/net6.0/refint/Conditional-if.dll
+/home/theplague1738/Downloads/Compressed/Ex_Files_Learning_C_Sharp/Exercise Files/Start/Program Flow/Conditional-if/obj/Debug/net6.0/Conditional-if.pdb
+/home/theplague1738/Downloads/Compressed/Ex_Files_Learning_C_Sharp/Exercise Files/Start/Program Flow/Conditional-if/obj/Debug/net6.0/Conditional-if.genruntimeconfig.cache
+/home/theplague1738/Downloads/Compressed/Ex_Files_Learning_C_Sharp/Exercise Files/Start/Program Flow/Conditional-if/obj/Debug/net6.0/ref/Conditional-if.dll

@@ -1,0 +1,15 @@
+/home/theplague1738/Downloads/Compressed/Ex_Files_Learning_C_Sharp/Exercise Files/Start/Functions/DefaultParams/bin/Debug/net6.0/DefaultParams
+/home/theplague1738/Downloads/Compressed/Ex_Files_Learning_C_Sharp/Exercise Files/Start/Functions/DefaultParams/bin/Debug/net6.0/DefaultParams.deps.json
+/home/theplague1738/Downloads/Compressed/Ex_Files_Learning_C_Sharp/Exercise Files/Start/Functions/DefaultParams/bin/Debug/net6.0/DefaultParams.runtimeconfig.json
+/home/theplague1738/Downloads/Compressed/Ex_Files_Learning_C_Sharp/Exercise Files/Start/Functions/DefaultParams/bin/Debug/net6.0/DefaultParams.dll
+/home/theplague1738/Downloads/Compressed/Ex_Files_Learning_C_Sharp/Exercise Files/Start/Functions/DefaultParams/bin/Debug/net6.0/DefaultParams.pdb
+/home/theplague1738/Downloads/Compressed/Ex_Files_Learning_C_Sharp/Exercise Files/Start/Functions/DefaultParams/obj/Debug/net6.0/DefaultParams.csproj.AssemblyReference.cache
+/home/theplague1738/Downloads/Compressed/Ex_Files_Learning_C_Sharp/Exercise Files/Start/Functions/DefaultParams/obj/Debug/net6.0/DefaultParams.GeneratedMSBuildEditorConfig.editorconfig
+/home/theplague1738/Downloads/Compressed/Ex_Files_Learning_C_Sharp/Exercise Files/Start/Functions/DefaultParams/obj/Debug/net6.0/DefaultParams.AssemblyInfoInputs.cache
+/home/theplague1738/Downloads/Compressed/Ex_Files_Learning_C_Sharp/Exercise Files/Start/Functions/DefaultParams/obj/Debug/net6.0/DefaultParams.AssemblyInfo.cs
+/home/theplague1738/Downloads/Compressed/Ex_Files_Learning_C_Sharp/Exercise Files/Start/Functions/DefaultParams/obj/Debug/net6.0/DefaultParams.csproj.CoreCompileInputs.cache
+/home/theplague1738/Downloads/Compressed/Ex_Files_Learning_C_Sharp/Exercise Files/Start/Functions/DefaultParams/obj/Debug/net6.0/DefaultParams.dll
+/home/theplague1738/Downloads/Compressed/Ex_Files_Learning_C_Sharp/Exercise Files/Start/Functions/DefaultParams/obj/Debug/net6.0/refint/DefaultParams.dll
+/home/theplague1738/Downloads/Compressed/Ex_Files_Learning_C_Sharp/Exercise Files/Start/Functions/DefaultParams/obj/Debug/net6.0/DefaultParams.pdb
+/home/theplague1738/Downloads/Compressed/Ex_Files_Learning_C_Sharp/Exercise Files/Start/Functions/DefaultParams/obj/Debug/net6.0/DefaultParams.genruntimeconfig.cache
+/home/theplague1738/Downloads/Compressed/Ex_Files_Learning_C_Sharp/Exercise Files/Start/Functions/DefaultParams/obj/Debug/net6.0/ref/DefaultParams.dll
