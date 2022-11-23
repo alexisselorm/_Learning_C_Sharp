@@ -1,7 +1,7 @@
 ﻿using Defining;
 // See https://aka.ms/new-console-template for more information
-Book b1 = new Book("How To Make Friends", "Faithful Gbeckor-Kove", 599, 39.9m);
-Magazine m1 = new Magazine("How To Make Money", "Faithful Gbeckor-Kove", 599, 4.99m);
+Book b1 = new Book("How To Make Friends", "The Hobbit", 599, 39.9m);
+Magazine m1 = new Magazine("How To Make Money", "Greendalf the Green", 599, 4.99m);
 // b1.SetName("Things fall Apart");
 // b1.SetAuthor("Adwoa Boateng");
 
